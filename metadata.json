@@ -1,0 +1,6 @@
+{
+  "name": "Nay Store",
+  "description": "A simple grocery store transaction application with product management, transaction logic, and integrated unit/integration testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
